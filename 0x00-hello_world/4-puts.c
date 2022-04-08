@@ -1,3 +1,4 @@
+#!/bin/bash
 #include <stdio.h>
 /**
  * programme to print muli-lingual puzzle
