@@ -9,7 +9,7 @@ int main(void)
 	int i;
 	char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
-	for (i = 0; i < 56; i++)
+	for (i = 0; i < 52; i++)
 	{
 		putchar(alp[i]);
 	}
