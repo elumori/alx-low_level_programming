@@ -1,7 +1,7 @@
-#include<main.h>
-#include<stdio.h>
+#include "main.h"
+#include <stdio.h>
 /**
- * main - checks for lower cases
+ * _islower - checks for lower cases
  *
  * Return: Always 0
  */
