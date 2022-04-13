@@ -1,7 +1,7 @@
-#include<main.h>
-#include<stdio.h>
+#include "main.h"
+#include <stdio.h>
 /**
- * main - print alphabet x10
+ * print_alphabet_x10 - print alphabet x10
  *
  * Return: Always 0 on success
  */
