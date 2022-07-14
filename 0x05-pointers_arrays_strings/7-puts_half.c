@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- *puts_half - prints every other character of a string 
- *@str: a pointer to an int that will be changed 
+ *puts_half - prints every other character of a string.
+ *@str: a pointer to an int that will be changed.
  *
  *Return: Nothing
  */
