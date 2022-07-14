@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * puts_haf - prints every other character of a string 
- * @str: a pointer to an int that will be changed 
+ *puts_half - prints every other character of a string 
+ *@str: a pointer to an int that will be changed 
  *
- * Return: Nothing
+ *Return: Nothing
  */
 
 void puts_half(char *str)
@@ -18,7 +18,7 @@ i++;
 
 last = (i + 1) / 2;
 
-for (i =last; str[i]; i++)
+for (i = last; str[i]; i++)
 {
 _putchar (str[i]);
 }
