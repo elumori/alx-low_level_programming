@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - prints the name of the file the program compiles from
- *
  * Return: Always 0
  */
 
