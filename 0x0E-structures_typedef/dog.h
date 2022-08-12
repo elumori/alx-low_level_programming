@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * struct dog - initialises structure for type dog
- * @name: name of the dog
- * @age: variable age for dog
- * @owner: variable owner of the dog
+ * struct dog - struct dog
+ * @name: name
+ * @age: age
+ * @owner: owner
+ *
  * Description: this struct is for dog
  */
 
